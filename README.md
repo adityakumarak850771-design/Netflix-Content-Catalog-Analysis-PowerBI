@@ -29,7 +29,7 @@ This project analyzes Netflix's content catalog to identify trends in movies, TV
 
 
 
-📊 Netflix Content Analysis Dashboard – Power BI | Part 2
+🎬 NETFLIX CONTENT CATALOG ANALYSIS – POWER BI | PART II
 
 ## 📸 Dashboard Preview
 
