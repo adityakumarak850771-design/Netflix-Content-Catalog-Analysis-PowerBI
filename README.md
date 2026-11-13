@@ -1,4 +1,4 @@
-# 🎬 Netflix Content Catalog Analysis – Power BI
+# 🎬 Netflix Content Catalog Analysis – Power BI Part-I
 
 ## 📊 Dashboard Preview
 
